@@ -1,27 +1,68 @@
 #EXTM3U
 #EXTINF:-1 tvg-logo="" group-title="supermediaGO IPTV",TVN HD
+#KODIPROP:inputstream=inputstream.adaptive
+#KODIPROP:inputstream.adaptive.drm_legacy=org.w3.clearkey|88a5e370996b3de3a3361995382d4467:dc29d760cbaf2e17aa8cebd9d39fc5e5
+https://r.dcs.redcdn.pl/livedash/o2/tvnplayer/live/tvn/live.isml/playlist.mpd?indexMode=&dummyfile=&server_side_events=0&dvr=7200000
 #EXTINF:-1 tvg-logo="" group-title="supermediaGO IPTV",TVN 7 HD
+#KODIPROP:inputstream=inputstream.adaptive
+#KODIPROP:inputstream.adaptive.drm_legacy=org.w3.clearkey|7c34304083fabe177078a4f8acdd19e8:0be71f99b079bf58a69356b53fcc5be8
+https://r.dcs.redcdn.pl/livedash/o2/tvnplayer/live/tvn_7/live.isml/playlist.mpd?indexMode=&dummyfile=&server_side_events=0&dvr=7200000
 #EXTINF:-1 tvg-logo="" group-title="supermediaGO IPTV",TVN 24 HD
+#KODIPROP:inputstream=inputstream.adaptive
+#KODIPROP:inputstream.adaptive.drm_legacy=org.w3.clearkey|cfeda6b8ee85c549e55b9f56e02ff375:c578b1c9c00b917fc84eae4d65bc73ad
+https://r.dcs.redcdn.pl/livedash/o2/tvnplayer/live/tvn_24/live.isml/playlist.mpd?indexMode=&dummyfile=&server_side_events=0&dvr=7200000
 #EXTINF:-1 tvg-logo="" group-title="supermediaGO IPTV",TVN 24 BIS
+#KODIPROP:inputstream=inputstream.adaptive
+#KODIPROP:inputstream.adaptive.drm_legacy=org.w3.clearkey|f2fc7610f3060216ca74a8d6163d559b:d9dd1b6753d428b7d83005a9f79f587d
+https://r.dcs.redcdn.pl/livedash/o2/tvnplayer/live/tvn_24_bis/dai_bid.isml
 #EXTINF:-1 tvg-logo="" group-title="supermediaGO IPTV",Polsat News HD
+https://cdn-s-lb2.pluscdn.pl/lv/1517830/349/dash/81ec4c32/live.mpd
 #EXTINF:-1 tvg-logo="" group-title="supermediaGO IPTV",Polsat News Polityka
+https://cdn-s-lb2.pluscdn.pl/lv/1511888/322/dash/52a9b70b/live.mpd
 #EXTINF:-1 tvg-logo="" group-title="supermediaGO IPTV",TV Republika HD
+#KODIPROP:inputstream=inputstream.adaptive
+#KODIPROP:inputstream.adaptive.drm_legacy=org.w3.clearkey|a7e42cd2aace4a49ae04d2760e5d8209:f35e1b491f61f8bcf372afcb1315e6e3
+http://cdn-s-lb2.pluscdn.pl/ch/1454064/17/dash/cc140553/live.mpd
 #EXTINF:-1 tvg-logo="" group-title="supermediaGO IPTV",TV4 HD
+https://cdn-s-lb2.pluscdn.pl/ch/1502601/309/dash/e25c2c93/live.mpd
 #EXTINF:-1 tvg-logo="" group-title="supermediaGO IPTV",TTV HD
-#EXTINF:-1 tvg-logo="" group-title="supermediaGO IPTV",WP HD
+#KODIPROP:inputstream=inputstream.adaptive
+#KODIPROP:inputstream.adaptive.drm_legacy=org.w3.clearkey|6d74e7e5d705252f2d9c454f9945dc69:32468b529c8cd2481adeea50dcd94480
+https://r.dcs.redcdn.pl/livedash/o2/tvnplayer/live/ttv/live.isml/playlist.mpd?indexMode=&dummyfile=&server_side_events=0&dvr=7200000
 #EXTINF:-1 tvg-logo="" group-title="supermediaGO IPTV",METRO HD
-#EXTINF:-1 tvg-logo="" group-title="supermediaGO IPTV",ZOOM TV HD
+#KODIPROP:inputstream=inputstream.adaptive
+#KODIPROP:inputstream.adaptive.drm_legacy=org.w3.clearkey|affadbe94f70409ab69a7c60838b6d09:d402506c3eaf43e226005f6b534e675a
+https://cdn-s-lb2.pluscdn.pl/ch/1457279/135/dash/27135140/live.mpd
 #EXTINF:-1 tvg-logo="" group-title="supermediaGO IPTV",TV Puls HD
+https://edge01.cdn.emitel.pl/bpk-tv/Puls_HD/hbbtv-dash/index.mpd
 #EXTINF:-1 tvg-logo="" group-title="supermediaGO IPTV",PULS 2 HD
-#EXTINF:-1 tvg-logo="" group-title="supermediaGO IPTV",Polsat Play HD
-#EXTINF:-1 tvg-logo="" group-title="supermediaGO IPTV",STOPKLATKA HD
+https://edge01.cdn.emitel.pl/bpk-tv/Puls2l_HD/hbbtv-dash/index.mpd
 #EXTINF:-1 tvg-logo="" group-title="supermediaGO IPTV",Eurosport 1 HD
+#KODIPROP:inputstream=inputstream.adaptive
+#KODIPROP:inputstream.adaptive.drm_legacy=org.w3.clearkey|
+# Nie mamy link
 #EXTINF:-1 tvg-logo="" group-title="supermediaGO IPTV",Eurosport 2 HD
+#KODIPROP:inputstream=inputstream.adaptive
+#KODIPROP:inputstream.adaptive.drm_legacy=org.w3.clearkey|
+# Nie mamy link
 #EXTINF:-1 tvg-logo="" group-title="supermediaGO IPTV",ELEVEN SPORTS 1 HD
+#KODIPROP:inputstream=inputstream.adaptive
+#KODIPROP:inputstream.adaptive.drm_legacy=org.w3.clearkey|525a9da2120045a6973709dbcd685609:d8a7578d81ce754755a503ad8ac98ec0
+https://cdn-s-lb2.pluscdn.pl/ch/1457744/147/dash/4867711b/live.mpd
 #EXTINF:-1 tvg-logo="" group-title="supermediaGO IPTV",ELEVEN SPORTS 2 HD
+#KODIPROP:inputstream=inputstream.adaptive
+#KODIPROP:inputstream.adaptive.drm_legacy=org.w3.clearkey|2cd12eaca5c14b30a3280b1a89484809:e2c14f6cc245c1a5ebbce8c8c704fc6c
+https://cdn-s-lb2.pluscdn.pl/ch/1457734/144/dash/0be7047a/live.mpd
 #EXTINF:-1 tvg-logo="" group-title="supermediaGO IPTV",ELEVEN SPORTS 3 HD
+#KODIPROP:inputstream=inputstream.adaptive
+#KODIPROP:inputstream.adaptive.drm_legacy=org.w3.clearkey|674c1f34ddac8bb39392a9a041651a33:2b57fa6846ead23442e9a421835fbfb8
+https://redcdnpl-ncp.github.io/livedash/o2/tvnplayerncp/live/11_extra/live.isml/playlist.mpd?indexMode=&dummyfile=&server_side_events=0&dvr=7200000
 #EXTINF:-1 tvg-logo="" group-title="supermediaGO IPTV",Polsat Sport 1 HD
+https://cdn-s-lb2.pluscdn.pl/lv/1544303/939/dash/7f74b079/live.mpd
 #EXTINF:-1 tvg-logo="" group-title="supermediaGO IPTV",Polsat Sport 2 HD
+#KODIPROP:inputstream=inputstream.adaptive
+#KODIPROP:inputstream.adaptive.drm_legacy=org.w3.clearkey|3201accccbe9455cbc28dcd4bcdf1509:f4d9a50f98ea833d2e5120d83bd59a23
+https://cdn-s-lb2.pluscdn.pl/ch/1455745/96/dash/3880d03f/live.mpd
 #EXTINF:-1 tvg-logo="" group-title="supermediaGO IPTV",
 #EXTINF:-1 tvg-logo="" group-title="supermediaGO IPTV",
 #EXTINF:-1 tvg-logo="" group-title="supermediaGO IPTV",
@@ -49,10 +90,18 @@
 #EXTINF:-1 tvg-logo="" group-title="supermediaGO IPTV",
 #EXTINF:-1 tvg-logo="" group-title="supermediaGO IPTV",
 #EXTINF:-1 tvg-logo="" group-title="supermediaGO IPTV",TVT
+https://live.streamtvt.pl/LiveAppStreamTVT/streams/853271271313930867905724.m3u8
 #EXTINF:-1 tvg-logo="" group-title="supermediaGO IPTV",EWTN
+https://cdn3.wowza.com/1/ZHdrMWt1NjlDSzFu/bzdDVG10/hls/live/playlist.m3u8
 #EXTINF:-1 tvg-logo="" group-title="supermediaGO IPTV",TV Regionalna
-#EXTINF:-1 tvg-logo="" group-title="supermediaGO IPTV",KAMERA, Polska, Gdańsk
+https://tvregfull.mailfull.pl/tvregfull/memfs/e64b3e05-649c-4939-9ff6-584e79285ccd_output_0.m3u8
+#EXTINF:-1 tvg-logo="" group-title="supermediaGO IPTV",KAMERA, Polska, Sopot
+https://hls8.webcamera.pl/sopot_cam_e1c28f/sopot_cam_e1c28f.stream/chunks.m3u8
 #EXTINF:-1 tvg-logo="" group-title="supermediaGO IPTV",KAMERA, Polska, Szczecin
+https://ls-proxy-local.lantech.com.pl/hls/szczecinpanorama/index.m3u8
 #EXTINF:-1 tvg-logo="" group-title="supermediaGO IPTV",KAMERA, Polska, Ujsoły
+http://91.224.104.112:80/ujsoly/index.m3u8
 #EXTINF:-1 tvg-logo="" group-title="supermediaGO IPTV",KAMERA, Polska, Wrocław
-#EXTINF:-1 tvg-logo="" group-title="supermediaGO IPTV",
+https://hoktastream1.webcamera.pl/wroclaw_przed_cam_16c68e/wroclaw_przed_cam_16c68e.stream/playlist.m3u8
+#EXTINF:-1 tvg-logo="" group-title="supermediaGO IPTV",KAMERA, Kosowo, Prisztina Veternik
+https://gjirafa-video-live.gjirafa.net/gjvideo-slow/fow-fmi-937-dfk/index.m3u8
