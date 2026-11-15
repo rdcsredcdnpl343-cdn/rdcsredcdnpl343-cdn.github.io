@@ -75,28 +75,30 @@ https://r.dcs.redcdn.pl/livedash/o2/tvnplayer/live/tvn_fabula/live.isml/playlist
 #KODIPROP:inputstream=inputstream.adaptive
 #KODIPROP:inputstream.adaptive.drm_legacy=org.w3.clearkey|5a8a23084b0d424dbcbfa6b337ef5909:c08da80215eb6548fa015b70178678c4
 https://cdn-s-lb2.pluscdn.pl/ch/1454624/47/dash/95c42be4/live.mpd
-#EXTINF:-1 tvg-logo="" group-title="supermediaGO IPTV",
-#EXTINF:-1 tvg-logo="" group-title="supermediaGO IPTV",
-#EXTINF:-1 tvg-logo="" group-title="supermediaGO IPTV",
-#EXTINF:-1 tvg-logo="" group-title="supermediaGO IPTV",
-#EXTINF:-1 tvg-logo="" group-title="supermediaGO IPTV",
-#EXTINF:-1 tvg-logo="" group-title="supermediaGO IPTV",
-#EXTINF:-1 tvg-logo="" group-title="supermediaGO IPTV",
-#EXTINF:-1 tvg-logo="" group-title="supermediaGO IPTV",
-#EXTINF:-1 tvg-logo="" group-title="supermediaGO IPTV",
-#EXTINF:-1 tvg-logo="" group-title="supermediaGO IPTV",
-#EXTINF:-1 tvg-logo="" group-title="supermediaGO IPTV",
-#EXTINF:-1 tvg-logo="" group-title="supermediaGO IPTV",
-#EXTINF:-1 tvg-logo="" group-title="supermediaGO IPTV",
-#EXTINF:-1 tvg-logo="" group-title="supermediaGO IPTV",
-#EXTINF:-1 tvg-logo="" group-title="supermediaGO IPTV",
-#EXTINF:-1 tvg-logo="" group-title="supermediaGO IPTV",
-#EXTINF:-1 tvg-logo="" group-title="supermediaGO IPTV",
-#EXTINF:-1 tvg-logo="" group-title="supermediaGO IPTV",
-#EXTINF:-1 tvg-logo="" group-title="supermediaGO IPTV",
-#EXTINF:-1 tvg-logo="" group-title="supermediaGO IPTV",
-#EXTINF:-1 tvg-logo="" group-title="supermediaGO IPTV",
-#EXTINF:-1 tvg-logo="" group-title="supermediaGO IPTV",
+#EXTINF:-1 tvg-logo="https://supermedia.cf.insyscd.net/insysgo.img/channel-logo/icon/logo-2x1-bglight_animal_planet.png?m=resize&w=240&h=136" group-title="supermediaGO IPTV",Animal Planet HD
+#KODIPROP:inputstream=inputstream.adaptive
+#KODIPROP:inputstream.adaptive.drm_legacy=org.w3.clearkey|aacfb8a827e14de58635e0ee95251809:8e15978e0ca7f1abf053fabd2b16abe8
+https://cdn-s-lb2.pluscdn.pl/ch/1454627/49/dash/22533008/live.mpd
+#EXTINF:-1 tvg-logo="https://supermedia.cf.insyscd.net/insysgo.img/channel-logo/jasneapla/logo-2x1-bglight-tvn-turbo-hd.png?m=resize&w=240&h=136" group-title="supermediaGO IPTV",TVN Turbo HD
+#KODIPROP:inputstream=inputstream.adaptive
+#KODIPROP:inputstream.adaptive.drm_legacy=org.w3.clearkey|7cc8c95420234b7cb3e20e63a6236909:589f9c2efbca25d28242a5ef5f91bf61
+https://cdn-s-lb2.pluscdn.pl/ch/1455833/118/dash/e000f5d3/live.mpd
+#EXTINF:-1 tvg-logo="https://supermedia.cf.insyscd.net/insysgo.img/channel-logo/jasneapla/logo-2x1-bglight-tvn-style-hd.png?m=resize&w=240&h=136" group-title="supermediaGO IPTV",TVN Style HD
+#KODIPROP:inputstream=inputstream.adaptive
+#KODIPROP:inputstream.adaptive.drm_legacy=org.w3.clearkey|2163305e0fba4b40a9fb8f64925a1c09:aac7db9a1082f598fea26874eaa594be
+https://cdn-s-lb2.pluscdn.pl/ch/1455163/67/dash/85b8fc46/live.mpd
+#EXTINF:-1 tvg-logo="https://supermedia.cf.insyscd.net/insysgo.img/channel-logo/jasneapla/logo-2x1-bglight-hgtv.png?m=resize&w=240&h=136" group-title="supermediaGO IPTV",HGTV HD
+#KODIPROP:inputstream=inputstream.adaptive
+#KODIPROP:inputstream.adaptive.drm_legacy=org.w3.clearkey|e47e9cf1a5b741dd814cae71b1b57009:e335930dfc9fbc032f882bf9dad5acb6
+https://cdn-s-lb2.pluscdn.pl/ch/1455434/86/dash/34c0beea/live.mpd
+#EXTINF:-1 tvg-logo="https://insysgo.cf.insyscd.net/insysgo.img/channel-logo/icon/logo-2x1-bglight-Cartoonito.png?m=resize&w=240&h=136" group-title="supermediaGO IPTV",Cartoonito
+#KODIPROP:inputstream=inputstream.adaptive
+#KODIPROP:inputstream.adaptive.drm_legacy=org.w3.clearkey|b1dadabe8ad44703965850a43cfb2809:50229ab2b86d764c39a7642d0a4f4971
+https://cdn-s-lb2.pluscdn.pl/ch/1455412/73/dash/cb00a9a6/live.mpd
+#EXTINF:-1 tvg-logo="https://supermedia.cf.insyscd.net/insysgo.img/channel-logo/jasneapla/logo-2x1-bglight-tv-trwam.png?m=resize&w=240&h=136" group-title="supermediaGO IPTV",TV Trwam
+https://live-ch1.trwam.cf.insyscd.net/out/v1/b99041a282774d4a8fe84a54243af5de/trwamtv-live-ch1.mpd
+#EXTINF:-1 tvg-logo="https://supermedia.cf.insyscd.net/insysgo.img/channel-logo/jasneapla/logo-2x1-bglight-4funtv.png?m=resize&w=240&h=136" group-title="supermediaGO IPTV",4FUN.TV
+https://stream.4fun.tv:8888/hd/4fun.m3u8
 #EXTINF:-1 tvg-logo="https://delegata.pl/wp-content/uploads/2023/12/TVT-e1763340716247.png" group-title="supermediaGO IPTV",TVT
 https://live.streamtvt.pl/LiveAppStreamTVT/streams/853271271313930867905724.m3u8
 #EXTINF:-1 tvg-logo="https://ewtn.pl/wp-content/uploads/2021/10/EWTN_logo-1.png" group-title="supermediaGO IPTV",EWTN
@@ -111,5 +113,3 @@ https://ls-proxy-local.lantech.com.pl/hls/szczecinpanorama/index.m3u8
 http://91.224.104.112:80/ujsoly/index.m3u8
 #EXTINF:-1 tvg-logo="https://flagcdn.com/w2560/pl.jpg" group-title="supermediaGO IPTV",KAMERA, Polska, Wrocław
 https://hoktastream1.webcamera.pl/wroclaw_przed_cam_16c68e/wroclaw_przed_cam_16c68e.stream/playlist.m3u8
-#EXTINF:-1 tvg-logo="https://flagcdn.com/w2560/xk.png" group-title="supermediaGO IPTV",KAMERA, Kosowo, Prisztina Veternik
-https://gjirafa-video-live.gjirafa.net/gjvideo-slow/fow-fmi-937-dfk/index.m3u8
