@@ -36,7 +36,7 @@ https://cdn-s-lb2.pluscdn.pl/ch/1457279/135/dash/27135140/live.mpd
 #EXTINF:-1 tvg-logo="https://supermedia.cf.insyscd.net/insysgo.img/channel-logo/jasneapla/logo-2x1-bglight-puls-hd.png?m=resize&w=240&h=136" group-title="supermediaGO IPTV",TV Puls HD
 https://edge01.cdn.emitel.pl/bpk-tv/Puls_HD/hbbtv-dash/index.mpd
 #EXTINF:-1 tvg-logo="https://supermedia.cf.insyscd.net/insysgo.img/channel-logo/jasneapla/logo-2x1-bglight-puls-2-hd.png?m=resize&w=240&h=136" group-title="supermediaGO IPTV",PULS 2 HD
-https://edge01.cdn.emitel.pl/bpk-tv/Puls2l_HD/hbbtv-dash/index.mpd
+https://edge01.cdn.emitel.pl/bpk-tv/Puls2_HD/hbbtv-dash/index.mpd
 #EXTINF:-1 tvg-logo="https://supermedia.cf.insyscd.net/insysgo.img/channel-logo/icon/logo-2x1-bglight_eurosport_1_hd.png?m=resize&w=240&h=136" group-title="supermediaGO IPTV",Eurosport 1 HD
 #KODIPROP:inputstream=inputstream.adaptive
 #KODIPROP:inputstream.adaptive.drm_legacy=org.w3.clearkey|
@@ -63,6 +63,10 @@ https://cdn-s-lb2.pluscdn.pl/lv/1544303/939/dash/7f74b079/live.mpd
 #KODIPROP:inputstream=inputstream.adaptive
 #KODIPROP:inputstream.adaptive.drm_legacy=org.w3.clearkey|3201accccbe9455cbc28dcd4bcdf1509:f4d9a50f98ea833d2e5120d83bd59a23
 https://cdn-s-lb2.pluscdn.pl/ch/1455745/96/dash/3880d03f/live.mpd
+#EXTINF:-1 tvg-logo="https://insysgo.cf.insyscd.net/insysgo.img/channel-logo/icon/logo-2x1-bglight-polsat-sport-3-hd.png?m=resize&w=240&h=136" group-title="supermediaGO IPTV",Polsat Sport 3 HD
+#KODIPROP:inputstream=inputstream.adaptive
+#KODIPROP:inputstream.adaptive.drm_legacy=org.w3.clearkey|50df829b092f462ab7ccb30199969f09:a9d1069c93b5a60e07c7f7a3985f2d73
+https://cdn-s-lb2.pluscdn.pl/ch/1455832/117/dash/790ff37c/live.mpd
 #EXTINF:-1 tvg-logo="https://supermedia.cf.insyscd.net/insysgo.img/channel-logo/jasneapla/logo-2x1-bglight-tvn-fabula-hd.png?m=resize&w=240&h=136" group-title="supermediaGO IPTV",TVN Fabuła HD
 #KODIPROP:inputstream=inputstream.adaptive
 #KODIPROP:inputstream.adaptive.drm_legacy=org.w3.clearkey|453f31b89ac45a5482e1fbc16b06c535:7b490291dec5a38c7c7e5d5e467c9ccb
@@ -93,10 +97,18 @@ https://cdn-s-lb2.pluscdn.pl/ch/1454624/47/dash/95c42be4/live.mpd
 #EXTINF:-1 tvg-logo="" group-title="supermediaGO IPTV",
 #EXTINF:-1 tvg-logo="" group-title="supermediaGO IPTV",
 #EXTINF:-1 tvg-logo="" group-title="supermediaGO IPTV",
-#EXTINF:-1 tvg-logo="" group-title="supermediaGO IPTV",
-#EXTINF:-1 tvg-logo="" group-title="supermediaGO IPTV",
-#EXTINF:-1 tvg-logo="" group-title="supermediaGO IPTV",
-#EXTINF:-1 tvg-logo="" group-title="supermediaGO IPTV",
+#EXTINF:-1 tvg-logo="https://supermedia.cf.insyscd.net/insysgo.img/channel-logo/jasneapla/logo-2x1-bglight-hgtv.png?m=resize&w=240&h=136" group-title="supermediaGO IPTV",HGTV
+#KODIPROP:inputstream=inputstream.adaptive
+#KODIPROP:inputstream.adaptive.drm_legacy=org.w3.clearkey|e47e9cf1a5b741dd814cae71b1b57009:e335930dfc9fbc032f882bf9dad5acb6
+https://cdn-s-lb2.pluscdn.pl/ch/1455434/86/dash/34c0beea/live.mpd
+#EXTINF:-1 tvg-logo="https://insysgo.cf.insyscd.net/insysgo.img/channel-logo/icon/logo-2x1-bglight-Cartoonito.png?m=resize&w=240&h=136" group-title="supermediaGO IPTV",Cartoonito
+#KODIPROP:inputstream=inputstream.adaptive
+#KODIPROP:inputstream.adaptive.drm_legacy=org.w3.clearkey|b1dadabe8ad44703965850a43cfb2809:50229ab2b86d764c39a7642d0a4f4971
+https://cdn-s-lb2.pluscdn.pl/ch/1455412/73/dash/cb00a9a6/live.mpd
+#EXTINF:-1 tvg-logo="https://supermedia.cf.insyscd.net/insysgo.img/channel-logo/jasneapla/logo-2x1-bglight-tv-trwam.png?m=resize&w=240&h=136" group-title="supermediaGO IPTV",TV Trwam
+https://live-ch1.trwam.cf.insyscd.net/out/v1/b99041a282774d4a8fe84a54243af5de/trwamtv-live-ch1.mpd
+#EXTINF:-1 tvg-logo="https://supermedia.cf.insyscd.net/insysgo.img/channel-logo/jasneapla/logo-2x1-bglight-4funtv.png?m=resize&w=240&h=136" group-title="supermediaGO IPTV",4FUN.TV
+https://stream.4fun.tv:8888/hd/4fun.m3u8
 #EXTINF:-1 tvg-logo="https://delegata.pl/wp-content/uploads/2023/12/TVT-e1763340716247.png" group-title="supermediaGO IPTV",TVT
 https://live.streamtvt.pl/LiveAppStreamTVT/streams/853271271313930867905724.m3u8
 #EXTINF:-1 tvg-logo="https://ewtn.pl/wp-content/uploads/2021/10/EWTN_logo-1.png" group-title="supermediaGO IPTV",EWTN
