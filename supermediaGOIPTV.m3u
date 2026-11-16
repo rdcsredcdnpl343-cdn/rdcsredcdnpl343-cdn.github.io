@@ -79,24 +79,14 @@ https://r.dcs.redcdn.pl/livedash/o2/tvnplayer/live/tvn_fabula/live.isml/playlist
 #KODIPROP:inputstream=inputstream.adaptive
 #KODIPROP:inputstream.adaptive.drm_legacy=org.w3.clearkey|5a8a23084b0d424dbcbfa6b337ef5909:c08da80215eb6548fa015b70178678c4
 https://cdn-s-lb2.pluscdn.pl/ch/1454624/47/dash/95c42be4/live.mpd
-#EXTINF:-1 tvg-logo="" group-title="supermediaGO IPTV",
-#EXTINF:-1 tvg-logo="" group-title="supermediaGO IPTV",
-#EXTINF:-1 tvg-logo="" group-title="supermediaGO IPTV",
-#EXTINF:-1 tvg-logo="" group-title="supermediaGO IPTV",
-#EXTINF:-1 tvg-logo="" group-title="supermediaGO IPTV",
-#EXTINF:-1 tvg-logo="" group-title="supermediaGO IPTV",
-#EXTINF:-1 tvg-logo="" group-title="supermediaGO IPTV",
-#EXTINF:-1 tvg-logo="" group-title="supermediaGO IPTV",
-#EXTINF:-1 tvg-logo="" group-title="supermediaGO IPTV",
-#EXTINF:-1 tvg-logo="" group-title="supermediaGO IPTV",
-#EXTINF:-1 tvg-logo="" group-title="supermediaGO IPTV",
-#EXTINF:-1 tvg-logo="" group-title="supermediaGO IPTV",
-#EXTINF:-1 tvg-logo="" group-title="supermediaGO IPTV",
-#EXTINF:-1 tvg-logo="" group-title="supermediaGO IPTV",
-#EXTINF:-1 tvg-logo="" group-title="supermediaGO IPTV",
-#EXTINF:-1 tvg-logo="" group-title="supermediaGO IPTV",
-#EXTINF:-1 tvg-logo="" group-title="supermediaGO IPTV",
-#EXTINF:-1 tvg-logo="" group-title="supermediaGO IPTV",
+#EXTINF:-1 tvg-logo="https://supermedia.cf.insyscd.net/insysgo.img/channel-logo/jasneapla/logo-2x1-bglight-tvn-turbo-hd.png?m=resize&w=240&h=136" group-title="supermediaGO IPTV",TVN Turbo HD
+#KODIPROP:inputstream=inputstream.adaptive
+#KODIPROP:inputstream.adaptive.drm_legacy=org.w3.clearkey|83a989b8e19387dd62ecf9f89114283e:ab8476cf101ab7e71df8d6404a278f82
+https://r.dcs.redcdn.pl/livedash/o2/tvnplayer/live/tvn_turbo/wp_dai.mpd
+#EXTINF:-1 tvg-logo="https://supermedia.cf.insyscd.net/insysgo.img/channel-logo/jasneapla/logo-2x1-bglight-tvn-style-hd.png?m=resize&w=240&h=136" group-title="supermediaGO IPTV",TVN Style HD
+#KODIPROP:inputstream=inputstream.adaptive
+#KODIPROP:inputstream.adaptive.drm_legacy=org.w3.clearkey|6b04444f6093cc7d12ab9e671e1ddf23:254fde48bd708bee1a08fd4f5038c1c2
+https://r.dcs.redcdn.pl/livedash/o2/tvnplayer/live/tvn_style/wp_dai.mpd
 #EXTINF:-1 tvg-logo="https://supermedia.cf.insyscd.net/insysgo.img/channel-logo/jasneapla/logo-2x1-bglight-hgtv.png?m=resize&w=240&h=136" group-title="supermediaGO IPTV",HGTV
 #KODIPROP:inputstream=inputstream.adaptive
 #KODIPROP:inputstream.adaptive.drm_legacy=org.w3.clearkey|e47e9cf1a5b741dd814cae71b1b57009:e335930dfc9fbc032f882bf9dad5acb6
